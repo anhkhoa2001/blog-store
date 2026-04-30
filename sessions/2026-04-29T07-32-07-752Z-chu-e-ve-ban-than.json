@@ -26,9 +26,23 @@
     {
       "id": 1,
       "original": "I live in Ha Noi.",
-      "translation": "",
-      "feedback": [],
-      "keywords": []
+      "translation": "Tôi sống ở Hà Nội.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch hoàn toàn chính xác về mặt ngữ nghĩa và ngữ pháp."
+        },
+        {
+          "type": "good",
+          "message": "Văn phong tự nhiên, phù hợp với một bài giới thiệu bản thân đơn giản và gần gũi."
+        },
+        {
+          "type": "good",
+          "message": "Sử dụng đại từ 'Tôi' rất phù hợp với ngữ cảnh Minh đang kể về bản thân cho người khác nghe một cách lịch sự."
+        }
+      ],
+      "keywords": [],
+      "status": "translated"
     },
     {
       "id": 2,
@@ -75,6 +89,6 @@
   ],
   "createdAt": "2026-04-29T07:32:07.752Z",
   "totalSentences": 8,
-  "translatedCount": 1,
+  "translatedCount": 2,
   "completed": false
 }
