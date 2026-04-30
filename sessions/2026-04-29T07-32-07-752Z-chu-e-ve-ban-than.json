@@ -1,13 +1,27 @@
 {
-  "title": "Chủ đề về bản thân",
+  "title": "Chá»§ Äá» vá» báº£n thÃ¢n",
   "originalText": "I am Minh. I live in Ha Noi. I love languages and I can speak English very well. I enjoy learning English because it helps me communicate with people from different countries. In my free time, I like reading novels, especially detective stories, as they sharpen my thinking skills. I also love playing badminton with my friends at the weekend to stay healthy and energetic. My dream is to become an interpreter, so I am working hard to improve my language skills every day. I believe that with determination and effort, I can achieve my goals in the future.",
   "sentences": [
     {
       "id": 0,
       "original": "I am Minh.",
-      "translation": "",
-      "feedback": [],
-      "keywords": []
+      "translation": "Tôi là Minh",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Lựa chọn đại từ 'Tôi' là hoàn toàn chính xác và phù hợp với ngữ cảnh một bài giới thiệu bản thân có tính chất nghiêm túc và thể hiện hoài bão cá nhân (trở thành thông dịch viên)."
+        },
+        {
+          "type": "good",
+          "message": "Bản dịch ngắn gọn, đi thẳng vào vấn đề, giữ đúng tinh thần của câu gốc."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi thiếu dấu chấm kết thúc câu. Trong dịch thuật, việc tuân thủ quy tắc dấu câu là bắt buộc để đảm bảo tính chuyên nghiệp của văn bản."
+        }
+      ],
+      "keywords": [],
+      "status": "translated"
     },
     {
       "id": 1,
@@ -59,5 +73,8 @@
       "keywords": []
     }
   ],
-  "createdAt": "2026-04-29T07:32:07.752Z"
+  "createdAt": "2026-04-29T07:32:07.752Z",
+  "totalSentences": 8,
+  "translatedCount": 1,
+  "completed": false
 }
