@@ -111,10 +111,24 @@
     {
       "id": 4,
       "original": "The middle of the country has hills and countryside.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Ở giữa các vùng miền có đồi núi và nông thôn.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Học viên đã dịch chính xác các danh từ chính trong câu như 'hills' (đồi núi) và 'countryside' (nông thôn)."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'The middle of the country' bị hiểu sai về mặt ngữ cảnh địa lý. Trong bài văn đang chia Italy thành 3 phần (North - Middle - South), 'the middle of the country' nên được dịch là 'Miền Trung' hoặc 'Vùng trung tâm'. Cách dịch 'Ở giữa các vùng miền' khiến người đọc hiểu lầm đây là khoảng không gian xen kẽ giữa các vùng, thay vì là một khu vực hành chính/địa lý cụ thể."
+        },
+        {
+          "type": "error",
+          "message": "Diễn đạt 'có đồi núi và nông thôn' còn hơi cứng. Trong tiếng Việt, khi nói về địa hình một vùng, chúng ta thường dùng từ 'cảnh quan nông thôn' hoặc 'vùng thôn quê' để câu văn uyển chuyển hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 6
     },
     {
       "id": 5,
@@ -151,7 +165,7 @@
   ],
   "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 4,
+  "translatedCount": 5,
   "completed": false,
-  "averageScore": 6.8
+  "averageScore": 6.5
 }
