@@ -30,10 +30,35 @@
     {
       "id": 1,
       "original": "In the north, where the Alps are, the weather is colder and people visit ski resorts for winter holidays.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Ở miền bắc, nơi người Alps ở, thời tiết ở đây rất lạnh và con người tới các khu nghỉ dưỡng vào các ngày mùa đông.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch đúng cụm từ chỉ vị trí địa lý 'In the north' là 'Ở miền bắc'."
+        },
+        {
+          "type": "error",
+          "message": "Sai kiến thức cơ bản: 'The Alps' là tên một dãy núi (dãy Alps hoặc dãy An-pơ), không phải là một nhóm người. Cụm 'where the Alps are' nên dịch là 'nơi có dãy Alps tọa lạc'."
+        },
+        {
+          "type": "error",
+          "message": "Chưa chính xác về cấp độ so sánh: 'colder' là 'lạnh hơn' (so với các vùng khác của Ý được nhắc đến trong bài), không phải là 'rất lạnh'."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dùng từ: Từ 'con người' nghe rất trang trọng và mang tính sinh học/triết học. Trong ngữ cảnh đời thường này, nên dùng 'người dân' hoặc 'mọi người'."
+        },
+        {
+          "type": "error",
+          "message": "Dịch thiếu thông tin quan trọng: 'ski resorts' là 'khu nghỉ dưỡng trượt tuyết'. Việc bỏ từ 'trượt tuyết' làm mất đi đặc trưng của du lịch vùng núi phía Bắc."
+        },
+        {
+          "type": "error",
+          "message": "Diễn đạt chưa tự nhiên: 'winter holidays' nên dịch là 'kỳ nghỉ đông' thì sẽ phù hợp với văn phong mô tả du lịch hơn là 'các ngày mùa đông'."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated"
     },
     {
       "id": 2,
@@ -94,6 +119,6 @@
   ],
   "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 1,
+  "translatedCount": 2,
   "completed": false
 }
