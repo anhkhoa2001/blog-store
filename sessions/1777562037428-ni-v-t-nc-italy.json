@@ -1,0 +1,82 @@
+{
+  "title": "Nói về đất nước Italy",
+  "originalText": "Italy is known internationally for its delicious food, elegant fashion, and fast cars, but its culture changes from one part of the country to another. In the north, where the Alps are, the weather is colder and people visit ski resorts for winter holidays. Big cities like Milan and Turin are busy and modern. The food often includes rich sauces, butter, and cream. The middle of the country has hills and countryside. The weather is mild, and meals include simple, fresh foods like tomatoes and olive oil. In the south and on the islands, the weather is warmer for most of the year. Life is more relaxed, and people eat a lot of fruit, vegetables, and seafood. From north to south, however, Italy is rich in art and history.",
+  "sentences": [
+    {
+      "id": 0,
+      "original": "Italy is known internationally for its delicious food, elegant fashion, and fast cars, but its culture changes from one part of the country to another.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 1,
+      "original": "In the north, where the Alps are, the weather is colder and people visit ski resorts for winter holidays.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "original": "Big cities like Milan and Turin are busy and modern.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "original": "The food often includes rich sauces, butter, and cream.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "original": "The middle of the country has hills and countryside.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "original": "The weather is mild, and meals include simple, fresh foods like tomatoes and olive oil.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "original": "In the south and on the islands, the weather is warmer for most of the year.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "original": "Life is more relaxed, and people eat a lot of fruit, vegetables, and seafood.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "original": "From north to south, however, Italy is rich in art and history.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    }
+  ],
+  "createdAt": "2026-04-30T15:13:57.428Z",
+  "totalSentences": 9,
+  "translatedCount": 0,
+  "completed": false
+}
