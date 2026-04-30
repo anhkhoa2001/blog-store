@@ -63,10 +63,28 @@
     {
       "id": 2,
       "original": "Big cities like Milan and Turin are busy and modern.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Những thành phố lớn như Milan và Turin rất bận rộn và hiện đại.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch truyền tải đầy đủ và chính xác ý nghĩa của câu gốc, cấu trúc ngữ pháp tiếng Việt mạch lạc."
+        },
+        {
+          "type": "good",
+          "message": "Việc giữ nguyên tên riêng Milan và Turin là đúng quy tắc dịch thuật hiện nay."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'bận rộn' (busy) trong tiếng Việt thường được dùng để chỉ trạng thái của con người. Khi miêu tả một thành phố hay không khí đô thị, sử dụng các từ như 'nhộn nhịp', 'sầm uất' hoặc 'hối hả' sẽ mang sắc thái tự nhiên và chuyên nghiệp hơn."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'Những' ở đầu câu không sai nhưng có thể thay bằng 'Các' để nghe trang trọng hơn, hoặc lược bỏ nếu muốn câu văn thanh thoát hơn trong ngữ cảnh miêu tả địa lý/du lịch."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     },
     {
       "id": 3,
@@ -119,6 +137,7 @@
   ],
   "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 2,
-  "completed": false
+  "translatedCount": 3,
+  "completed": false,
+  "averageScore": 8.5
 }
