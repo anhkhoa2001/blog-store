@@ -5,10 +5,27 @@
     {
       "id": 0,
       "original": "Italy is known internationally for its delicious food, elegant fashion, and fast cars, but its culture changes from one part of the country to another.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Italy là một nước quốc tế với những thức ăn ngon, quần áo đẹp và những chiếc siêu xe, nhưng văn hóa thay đổi đến từ những quốc gia khác.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bạn đã xác định đúng các chủ thể chính trong câu như đồ ăn, thời trang và xe hơi."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'is known internationally' nghĩa là 'được quốc tế biết đến' hoặc 'nổi tiếng khắp thế giới', chứ không phải Italy 'là một nước quốc tế'."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'elegant fashion' nên dịch là 'thời trang thanh lịch' hoặc 'thời trang tinh tế' sẽ sát nghĩa và chuyên nghiệp hơn là 'quần áo đẹp'."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi nghiêm trọng nhất: 'changes from one part of the country to another' nghĩa là văn hóa thay đổi 'giữa các vùng miền trong nước'. Bạn dịch thành 'đến từ những quốc gia khác' là sai hoàn toàn ý nghĩa của văn cảnh (đoạn văn đang so sánh miền Bắc, miền Trung và miền Nam nước Ý)."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated"
     },
     {
       "id": 1,
@@ -75,8 +92,8 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-04-30T15:13:57.428Z",
+  "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 0,
+  "translatedCount": 1,
   "completed": false
 }
