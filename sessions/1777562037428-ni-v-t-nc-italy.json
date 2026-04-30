@@ -89,10 +89,24 @@
     {
       "id": 3,
       "original": "The food often includes rich sauces, butter, and cream.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thức ăn thường nhiều vị cay, bơ và kem.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bạn đã dịch đúng hai thành phần quan trọng là 'butter' (bơ) và 'cream' (kem)."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi sai nghiêm trọng ở cụm 'rich sauces'. Trong ngữ cảnh ẩm thực, 'rich' có nghĩa là đậm đà, béo ngậy hoặc nhiều dưỡng chất (thường do có nhiều bơ, sữa, trứng). Bạn dịch thành 'vị cay' (spicy) là hoàn toàn sai lệch về nghĩa và đặc trưng ẩm thực miền Bắc Ý."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'Thức ăn' dùng trong văn bản giới thiệu văn hóa du lịch hơi thiếu sự trang trọng. Nên dùng từ 'Ẩm thực' hoặc 'Các món ăn' để tự nhiên hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 5
     },
     {
       "id": 4,
@@ -137,7 +151,7 @@
   ],
   "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 3,
+  "translatedCount": 4,
   "completed": false,
-  "averageScore": 8.5
+  "averageScore": 6.8
 }
