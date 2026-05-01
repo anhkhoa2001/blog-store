@@ -133,10 +133,32 @@
     {
       "id": 5,
       "original": "The weather is mild, and meals include simple, fresh foods like tomatoes and olive oil.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thời tiết rất dịu và những bữa ăn đơn giản, thức ăn nhanh như khoai tây và dầu ô liu",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bạn đã xác định đúng cấu trúc cơ bản của câu và dịch chính xác cụm từ 'olive oil' thành 'dầu ô liu'."
+        },
+        {
+          "type": "error",
+          "message": "Sai từ vựng nghiêm trọng: 'Fresh foods' là thực phẩm tươi sống/tươi ngon, không phải là 'thức ăn nhanh' (fast food). Việc nhầm lẫn này làm sai lệch hoàn toàn tính chất ẩm thực miền Trung Ý."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai tên thực phẩm: 'Tomatoes' là 'cà chua', không phải là 'khoai tây' (potatoes)."
+        },
+        {
+          "type": "error",
+          "message": "Thiếu động từ chính: Bạn đã bỏ sót động từ 'include' (bao gồm), khiến vế sau của câu bị rời rạc và không đúng ngữ pháp tiếng Việt."
+        },
+        {
+          "type": "error",
+          "message": "Về sắc thái: 'Thời tiết rất dịu' chưa thực sự tự nhiên khi nói về khí hậu. Trong ngữ cảnh địa lý, nên dùng từ 'ôn hòa' cho 'mild'."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 4
     },
     {
       "id": 6,
@@ -165,7 +187,7 @@
   ],
   "createdAt": "2026-04-30T15:15:26.596Z",
   "totalSentences": 9,
-  "translatedCount": 5,
+  "translatedCount": 6,
   "completed": false,
-  "averageScore": 6.5
+  "averageScore": 5.9
 }
