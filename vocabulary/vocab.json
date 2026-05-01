@@ -7,5 +7,14 @@
     "example": "The weather was mild and sunny throughout the week.",
     "createdAt": "2026-05-01T06:39:45.742Z",
     "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
+  },
+  {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpl/",
+    "partOfSpeech": "tính từ",
+    "meaning": "đơn giản, dễ hiểu",
+    "example": "The solution to the problem is quite simple.",
+    "createdAt": "2026-05-01T06:40:50.971Z",
+    "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
   }
 ]
