@@ -127,10 +127,32 @@
     {
       "id": 5,
       "original": "We can provide you with: a professional business address, a local phone number and we will also handle mail.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi có thể cung cấp cho bạn: một địa chỉ doanh nghiệp chuyên nghiệp, một số điện thoại địa phương và chúng tôi sẽ xử lý thư cho bạn.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch của bạn đã truyền tải đầy đủ và chính xác thông tin từ câu gốc. Cách xưng hô 'chúng tôi - bạn' phù hợp với văn phong quảng cáo, hướng tới khách hàng của đoạn văn."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'địa chỉ doanh nghiệp chuyên nghiệp' bị lặp từ 'nghiệp' nghe hơi gượng tai. Trong lĩnh vực văn phòng ảo (virtual office), người ta thường dùng 'địa chỉ giao dịch chuyên nghiệp' hoặc 'địa chỉ đăng ký kinh doanh uy tín'."
+        },
+        {
+          "type": "error",
+          "message": "Dịch 'local phone number' thành 'số điện thoại địa phương' là dịch sát nghĩa đen (word-by-word) nhưng chưa tối ưu trong tiếng Việt. Nên dùng 'số điện thoại cố định' hoặc 'đầu số điện thoại nội vùng/địa phương' để nghe chuyên nghiệp hơn."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'xử lý thư cho bạn' (handle mail) dịch hơi thô. Trong môi trường công sở/dịch vụ văn phòng, việc này thường được gọi là 'nhận và quản lý thư tín' hoặc 'xử lý thư từ/bưu phẩm'."
+        },
+        {
+          "type": "error",
+          "message": "Cấu trúc song song sau dấu hai chấm bị gãy: Bạn đang liệt kê hai danh từ ('một địa chỉ...', 'một số điện thoại...') thì vế thứ ba lại chuyển thành một mệnh đề ('và chúng tôi sẽ xử lý...'). Nên chuyển vế cuối thành một cụm danh từ hoặc cụm động từ tương đương để câu văn lưu loát hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7.5
     },
     {
       "id": 6,
@@ -141,9 +163,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:54:31.726Z",
+  "createdAt": "2026-05-22T02:56:24.754Z",
   "totalSentences": 7,
-  "translatedCount": 5,
+  "translatedCount": 6,
   "completed": false,
-  "averageScore": 7.1
+  "averageScore": 7.2
 }
