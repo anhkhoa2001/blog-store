@@ -1,5 +1,14 @@
 [
   {
+    "word": "keen",
+    "phonetic": "/kiːn/",
+    "partOfSpeech": "tính từ",
+    "meaning": "Sắc bén, nhạy bén; say mê, cực kỳ hứng thú",
+    "example": "She has a keen interest in art and spends all her free time painting.",
+    "createdAt": "2026-05-22T07:22:59.686Z",
+    "sessionPath": "sessions/1779434354374-ni-v-bn-thn.json"
+  },
+  {
     "word": "advised",
     "phonetic": "/ədˈvaɪzd/",
     "partOfSpeech": "động từ (quá khứ / phân từ hai)",
@@ -72,12 +81,12 @@
     "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
   },
   {
-    "word": "keen",
-    "phonetic": "/kiːn/",
-    "partOfSpeech": "tính từ",
-    "meaning": "Sắc bén, nhạy bén; say mê, cực kỳ hứng thú",
-    "example": "She has a keen interest in art and spends all her free time painting.",
-    "createdAt": "2026-05-22T07:22:59.686Z",
+    "word": "hobby",
+    "phonetic": "/ˈhɒbi/",
+    "partOfSpeech": "danh từ",
+    "meaning": "sở thích",
+    "example": "My favorite hobby is reading books in my free time.",
+    "createdAt": "2026-05-22T07:28:12.567Z",
     "sessionPath": "sessions/1779434354374-ni-v-bn-thn.json"
   }
 ]
