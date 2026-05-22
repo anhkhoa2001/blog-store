@@ -1,0 +1,83 @@
+{
+  "title": "Nói về bản thân",
+  "originalText": "In my free time, I enjoy doing simple and fun activities. I like walking in the park because it helps me relax and enjoy nature. Sometimes, I listen to music or watch movies at home. In addition, I am keen on reading books, especially stories that make me imagine new places and ideas. On weekends, I spend time with my family or friends. We often play games, cook together, or just talk. I also enjoy learning new things, like trying a new recipe or practicing a hobby like drawing. When the weather is nice, I am into riding my bike or playing sports outside. These activities help me feel happy and give me energy for the day.",
+  "sentences": [
+    {
+      "id": 0,
+      "original": "In my free time, I enjoy doing simple and fun activities.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 1,
+      "original": "I like walking in the park because it helps me relax and enjoy nature.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "original": "Sometimes, I listen to music or watch movies at home.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "original": "In addition, I am keen on reading books, especially stories that make me imagine new places and ideas.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "original": "On weekends, I spend time with my family or friends.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "original": "We often play games, cook together, or just talk.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "original": "I also enjoy learning new things, like trying a new recipe or practicing a hobby like drawing.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "original": "When the weather is nice, I am into riding my bike or playing sports outside.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "original": "These activities help me feel happy and give me energy for the day.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    }
+  ],
+  "createdAt": "2026-05-22T07:19:14.373Z",
+  "totalSentences": 9,
+  "translatedCount": 0,
+  "completed": false,
+  "averageScore": 0
+}
