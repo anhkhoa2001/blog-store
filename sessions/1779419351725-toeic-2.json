@@ -105,10 +105,32 @@
     {
       "id": 4,
       "original": "We recommend planning extra time if you are carrying heavy materials.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi đã đề xuất kế hoạch làm thêm nếu bạn đang mang thiết bị nặng.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Học viên đã xác định đúng cấu trúc điều kiện 'if' (nếu...) và dịch đúng chủ ngữ 'We' thành 'Chúng tôi' phù hợp với ngữ cảnh trang trọng của thông báo."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai cụm từ 'planning extra time': Cụm này nghĩa là 'dự trù thêm thời gian' (đi sớm hơn để bù vào thời gian đi thang bộ). Học viên dịch thành 'kế hoạch làm thêm' (hiểu nhầm sang làm tăng ca/overtime), làm sai lệch hoàn toàn ý nghĩa của câu."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai thì và sắc thái của từ 'recommend': 'recommend' ở hiện tại đơn mang tính chất khuyên nhủ, khuyến nghị ('Chúng tôi khuyên/khuyến nghị...'). Học viên dịch thành 'đã đề xuất' (quá khứ) là chưa chính xác."
+        },
+        {
+          "type": "error",
+          "message": "Dịch từ 'materials' thành 'thiết bị' chưa sát nghĩa: Trong ngữ cảnh văn phòng, 'materials' thường là tài liệu, hồ sơ, hoặc đồ dùng, vật tư nói chung. Nên dịch là 'đồ đạc' hoặc 'vật dụng' sẽ tự nhiên hơn. 'Thiết bị' thường là 'equipment/devices'."
+        },
+        {
+          "type": "error",
+          "message": "Ngôi xưng hô chưa phù hợp: Trong thông báo gửi toàn thể nhân viên ('Dear Colleagues'), từ 'you' nên dịch là 'quý vị', 'anh/chị' hoặc dịch ẩn đi để thể hiện sự lịch sự, trang trọng, thay vì dùng từ 'bạn' mang tính cá nhân."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 4
     },
     {
       "id": 5,
@@ -153,7 +175,7 @@
   ],
   "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 4,
+  "translatedCount": 5,
   "completed": false,
-  "averageScore": 7.6
+  "averageScore": 6.9
 }
