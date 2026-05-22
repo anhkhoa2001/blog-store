@@ -71,10 +71,28 @@
     {
       "id": 3,
       "original": "In addition, I am keen on reading books, especially stories that make me imagine new places and ideas.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thêm nữa, tôi rất hứng thú với đọc sách, đặc biệt là truyện thứ làm tôi tưởng tượng địa điểm và ý tưởng mới.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch đã truyền tải đầy đủ và chính xác nội dung cốt lõi của câu gốc. Việc chọn từ 'Thêm nữa' cho 'In addition' và 'đặc biệt là truyện' cho 'especially stories' là hoàn toàn sát nghĩa."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'hứng thú với đọc sách' diễn đạt chưa được tự nhiên. Trong tiếng Việt, ta nên thêm danh từ hóa như 'hứng thú với việc đọc sách' hoặc dịch giản dị, gần gũi hơn là 'thích đọc sách' (phù hợp với văn phong chia sẻ sở thích cá nhân)."
+        },
+        {
+          "type": "error",
+          "message": "Cách dịch 'truyện thứ làm tôi...' bị lỗi dịch word-for-word (dịch từng từ) từ mệnh đề quan hệ 'stories that make me...'. Trong tiếng Việt, không ai dùng từ 'thứ' để nối như vậy. Nên dịch thoát ý thành 'những câu chuyện giúp tôi...' hoặc 'những câu chuyện khơi gợi trong tôi...'."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'places' dịch là 'địa điểm' trong ngữ cảnh đọc sách/truyện nghe khá khô khan và mang tính hành chính. Nên thay bằng 'vùng đất' hoặc 'nơi chốn' để gợi hình hơn. Đồng thời, cụm 'tưởng tượng địa điểm...' cần có thêm giới từ 'về' (tưởng tượng về...) để câu văn lưu loát."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7
     },
     {
       "id": 4,
@@ -117,9 +135,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:22:01.132Z",
+  "createdAt": "2026-05-22T07:25:08.795Z",
   "totalSentences": 9,
-  "translatedCount": 3,
+  "translatedCount": 4,
   "completed": false,
-  "averageScore": 8.2
+  "averageScore": 7.9
 }
