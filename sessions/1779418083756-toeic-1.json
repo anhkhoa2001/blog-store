@@ -31,10 +31,28 @@
     {
       "id": 1,
       "original": "Worried about the costs of renting office space and employing the right people?",
-      "translation": "",
-      "feedback": [],
+      "translation": "Lo lắng về chi phí thuê văn phòng và tuyển đúng người?",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch rất ngắn gọn, bám sát cấu trúc câu hỏi tu từ của bản gốc, giúp giữ được nhịp điệu nhanh và thu hút của lời quảng cáo."
+        },
+        {
+          "type": "good",
+          "message": "Dịch cụm 'costs of renting office space' thành 'chi phí thuê văn phòng' rất chính xác và tự nhiên."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'tuyển đúng người' tuy không sai nghĩa nhưng sắc thái biểu cảm hơi suồng sã, thiếu tính chuyên nghiệp. Trong ngữ cảnh thiết lập doanh nghiệp, cụm 'employing the right people' nên được dịch trang trọng hơn như 'tuyển dụng nhân sự phù hợp' hoặc 'tìm kiếm nhân sự phù hợp'."
+        },
+        {
+          "type": "error",
+          "message": "Việc lược bỏ chủ ngữ trong tiếng Việt ở câu này làm câu văn hơi cụt ngủn và giảm đi tính tương tác, thuyết phục đối với khách hàng mục tiêu. Thêm từ 'Bạn' vào đầu câu sẽ giúp lời chào mời tự nhiên và thân thiện hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     },
     {
       "id": 2,
@@ -77,9 +95,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:48:34.775Z",
+  "createdAt": "2026-05-22T02:49:51.412Z",
   "totalSentences": 7,
-  "translatedCount": 1,
+  "translatedCount": 2,
   "completed": false,
-  "averageScore": 8
+  "averageScore": 8.3
 }
