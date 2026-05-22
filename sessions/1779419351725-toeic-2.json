@@ -135,10 +135,28 @@
     {
       "id": 5,
       "original": "We expect all work to be completed by Sunday morning.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi mong đợi toàn bộ công việc sẽ được hoàn thành vào sáng Chủ nhật",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch của học viên đã truyền tải đúng nội dung cốt lõi của câu gốc, câu văn rõ ràng, mạch lạc và dễ hiểu."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'We expect' dịch là 'Chúng tôi mong đợi' chưa phù hợp với ngữ cảnh thông báo hành chính (memo). Trong văn phong công việc, 'expect' mang tính chất dự đoán, ước tính. Dịch là 'Chúng tôi dự kiến' sẽ chuyên nghiệp và tự nhiên hơn."
+        },
+        {
+          "type": "error",
+          "message": "Giới từ 'by' trong 'by Sunday morning' mang nghĩa là 'trước hoặc chậm nhất vào lúc đó' (deadline). Việc dịch thành 'vào sáng Chủ nhật' vô tình làm mất đi sắc thái thời hạn này. Nên dịch là 'trước sáng Chủ nhật'."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'sẽ được hoàn thành' bị ảnh hưởng bởi cấu trúc bị động của tiếng Anh (passive voice), khiến câu tiếng Việt hơi rườm rà. Nên dùng từ chủ động/trung tính như 'sẽ hoàn tất' hoặc 'sẽ hoàn thành' để câu văn trôi chảy hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7.5
     },
     {
       "id": 6,
@@ -175,7 +193,7 @@
   ],
   "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 5,
+  "translatedCount": 6,
   "completed": false,
-  "averageScore": 6.9
+  "averageScore": 7
 }
