@@ -75,10 +75,28 @@
     {
       "id": 3,
       "original": "With our Basic Office Deal, we can set up a virtual office for you practically overnight.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Với những đề nghĩ văn phòng cơ bản của chúng tôi, chúng tôi có thể chuẩn bị một văn phòng ảo cho bạn xuyên đêm",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch chính xác cụm từ 'virtual office for you' thành 'văn phòng ảo cho bạn' và giữ được cấu trúc mạch lạc của câu gốc."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi chính tả và dùng từ chưa phù hợp: 'đề nghĩ' bị viết sai chính tả (đúng phải là 'đề nghị'). Bên cạnh đó, từ 'Deal' trong ngữ cảnh quảng cáo dịch vụ này nên được dịch là 'Gói dịch vụ' hoặc 'Gói ưu đãi' chứ không dùng 'đề nghị'."
+        },
+        {
+          "type": "error",
+          "message": "Hiểu sai nghĩa của cụm 'practically overnight': Trong ngữ cảnh này, 'overnight' mang nghĩa là 'rất nhanh chóng, chỉ sau một đêm' chứ không phải là làm việc 'xuyên đêm' (qua đêm). 'Practically' nghĩa là 'gần như/hầu như'. Vì vậy, cụm này nên dịch là 'gần như chỉ sau một đêm' hoặc 'nhanh chóng chỉ sau một đêm'."
+        },
+        {
+          "type": "error",
+          "message": "Lặp từ không tự nhiên: Việc lặp lại từ 'chúng tôi' hai lần trong một câu ngắn ('Với... của chúng tôi, chúng tôi có thể...') làm câu văn tiếng Việt bị rườm rà. Nên lược bớt một từ để câu văn thanh thoát hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 5.5
     },
     {
       "id": 4,
@@ -105,9 +123,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:50:52.945Z",
+  "createdAt": "2026-05-22T02:51:56.154Z",
   "totalSentences": 7,
-  "translatedCount": 3,
+  "translatedCount": 4,
   "completed": false,
-  "averageScore": 8.3
+  "averageScore": 7.6
 }
