@@ -1,5 +1,14 @@
 [
   {
+    "word": "approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "partOfSpeech": "động từ, danh từ",
+    "meaning": "tiếp cận; phương pháp giải quyết, sự tiếp cận",
+    "example": "We need to find a new approach to solve this difficult problem.",
+    "createdAt": "2026-05-22T02:57:30.678Z",
+    "sessionPath": "sessions/1779418083756-toeic-1.json"
+  },
+  {
     "word": "hesitate",
     "phonetic": "/ˈhez.ɪ.teɪt/",
     "partOfSpeech": "động từ",
@@ -54,12 +63,12 @@
     "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
   },
   {
-    "word": "approach",
-    "phonetic": "/əˈproʊtʃ/",
-    "partOfSpeech": "động từ, danh từ",
-    "meaning": "tiếp cận; phương pháp giải quyết, sự tiếp cận",
-    "example": "We need to find a new approach to solve this difficult problem.",
-    "createdAt": "2026-05-22T02:57:30.678Z",
-    "sessionPath": "sessions/1779418083756-toeic-1.json"
+    "word": "advised",
+    "phonetic": "/ədˈvaɪzd/",
+    "partOfSpeech": "động từ (quá khứ / phân từ hai)",
+    "meaning": "đã khuyên, được khuyên",
+    "example": "The doctor advised him to rest for a few days.",
+    "createdAt": "2026-05-22T03:12:33.138Z",
+    "sessionPath": "sessions/1779419351725-toeic-2.json"
   }
 ]
