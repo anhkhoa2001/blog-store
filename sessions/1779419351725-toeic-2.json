@@ -49,10 +49,24 @@
     {
       "id": 2,
       "original": "Technicians will perform routine maintenance and safety inspections throughout the day.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Kỹ thuật viên sẽ thực hiện bảo trì thường xuyên và kiểm tra an toàn hàng ngày.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch đúng chủ ngữ 'Kỹ thuật viên' (Technicians) và cụm từ 'kiểm tra an toàn' (safety inspections). Cấu trúc câu diễn đạt gãy gọn, dễ hiểu."
+        },
+        {
+          "type": "error",
+          "message": "Sai lệch thông tin nghiêm trọng ở cụm 'throughout the day' bị dịch thành 'hàng ngày'. Dựa vào ngữ cảnh, việc bảo trì chỉ diễn ra vào ngày Thứ Bảy (21/10), do đó 'throughout the day' nghĩa là 'trong suốt cả ngày hôm đó', chứ không phải ngày nào cũng làm ('hàng ngày'/daily)."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'routine maintenance' dịch là 'bảo trì thường xuyên' chưa thực sự tự nhiên và chuyên nghiệp trong văn phong thông báo của tòa nhà. Trong ngữ cảnh này, 'bảo trì định kỳ' sẽ chuẩn xác và trang trọng hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 6.5
     },
     {
       "id": 3,
@@ -111,9 +125,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T03:13:46.823Z",
+  "createdAt": "2026-05-22T03:23:34.454Z",
   "totalSentences": 10,
-  "translatedCount": 2,
+  "translatedCount": 3,
   "completed": false,
-  "averageScore": 8.8
+  "averageScore": 8
 }
