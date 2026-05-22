@@ -183,28 +183,28 @@
     {
       "id": 7,
       "original": "We apologize for any inconvenience this may cause.",
-      "translation": "Chúng tôi trân thành xin lỗi vì bất kì sự bất tiện nào do vấn đề này gây ra",
+      "translation": "Chúng tôi trân thành xin lỗi vì bất kì sự bất tiện này",
       "feedback": [
         {
           "type": "good",
-          "message": "Bản dịch đã truyền tải được tinh thần lịch sự, trang trọng và thái độ cầu thị của ban quản lý tòa nhà, rất phù hợp với văn phong email công việc."
+          "message": "Học viên đã xác định đúng đối tượng xưng hô 'Chúng tôi' (đại diện cho Ban quản lý tòa nhà) phù hợp với ngữ cảnh trang trọng của một thông báo nội bộ."
         },
         {
           "type": "error",
-          "message": "Lỗi chính tả nghiêm trọng: 'trân thành' là từ viết sai, phải sửa lại thành 'chân thành'."
+          "message": "Lỗi chính tả nghiêm trọng: 'trân thành' là từ viết sai chính tả. Từ đúng phải là 'chân thành'."
         },
         {
           "type": "error",
-          "message": "Dịch bị rập khuôn từ chữ (word-by-word): Cụm 'bất kì sự bất tiện nào do vấn đề này gây ra' nghe khá rườm rà và không tự nhiên trong tiếng Việt công sở. Ngoài ra, việc bảo trì định kỳ là hoạt động có kế hoạch, không nên dùng từ 'vấn đề này' vì nó mang sắc thái tiêu cực (như thể đang có sự cố xảy ra)."
+          "message": "Lỗi diễn đạt chưa tự nhiên: Cụm từ 'bất kì sự bất tiện này' bị lỗi ngữ pháp tiếng Việt (không thể kết hợp 'bất kỳ' với 'này' trong ngữ cảnh này). Cụm 'any inconvenience this may cause' nên được dịch thoát ý thành 'bất kỳ sự bất tiện nào' hoặc 'sự bất tiện này'."
         },
         {
           "type": "error",
-          "message": "Thiếu dấu chấm kết thúc câu."
+          "message": "Văn phong dịch bị 'word-by-word' (dịch từng từ). Trong văn phong thông báo công sở ở Việt Nam, câu này thường được diễn đạt uyển chuyển hơn là chỉ xin lỗi đơn thuần."
         }
       ],
       "keywords": [],
       "status": "translated",
-      "score": 7
+      "score": 5
     },
     {
       "id": 8,
@@ -227,5 +227,5 @@
   "totalSentences": 10,
   "translatedCount": 8,
   "completed": false,
-  "averageScore": 6.9
+  "averageScore": 6.6
 }
