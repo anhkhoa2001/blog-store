@@ -157,15 +157,37 @@
     {
       "id": 6,
       "original": "For a more personal approach, with the option of forwarding mail and messages to your home address, don’t hesitate to ask us about our Premier Office Deals.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Với nhiều cá nhân tiếp cận, với lựa chọn chuyển tiếp thư và tin nhắn tới địa chỉ nhà của bạn, đừng do dự hỏi chúng tôi về Premier Office Deals.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Học viên đã dịch sát nghĩa vế 'forwarding mail and messages to your home address' thành 'chuyển tiếp thư và tin nhắn tới địa chỉ nhà của bạn', giúp người đọc hiểu được dịch vụ cốt lõi."
+        },
+        {
+          "type": "good",
+          "message": "Việc giữ nguyên tên riêng gói dịch vụ 'Premier Office Deals' là phù hợp để khách hàng dễ dàng đối chiếu khi giao dịch thực tế."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dịch word-by-word nghiêm trọng ở cụm 'For a more personal approach' thành 'Với nhiều cá nhân tiếp cận'. Trong ngữ cảnh dịch vụ văn phòng ảo, 'personal approach' có nghĩa là 'phương thức/cách tiếp cận mang tính cá nhân hóa hơn' (đáp ứng nhu cầu riêng biệt của từng khách hàng). Ngoài ra, từ 'more' ở đây là so sánh hơn ('hơn'), không phải 'nhiều'."
+        },
+        {
+          "type": "error",
+          "message": "Cấu trúc câu bị lặp từ 'với' liên tiếp ('Với nhiều... với lựa chọn...') làm câu văn bị lủng củng, thiếu mượt mà."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'đừng do dự hỏi chúng tôi' (don't hesitate to ask us) dịch quá sát nghĩa đen, nghe khá thô cứng. Trong văn phong quảng cáo/chăm sóc khách hàng tiếng Việt, nên dùng các cụm tự nhiên hơn như 'đừng ngần ngại liên hệ với chúng tôi' hoặc 'hãy liên hệ ngay với chúng tôi'."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 5
     }
   ],
-  "createdAt": "2026-05-22T02:56:24.754Z",
+  "createdAt": "2026-05-22T03:00:47.153Z",
   "totalSentences": 7,
-  "translatedCount": 6,
-  "completed": false,
-  "averageScore": 7.2
+  "translatedCount": 7,
+  "completed": true,
+  "averageScore": 6.9
 }
