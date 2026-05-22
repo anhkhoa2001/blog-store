@@ -145,10 +145,36 @@
     {
       "id": 6,
       "original": "I also enjoy learning new things, like trying a new recipe or practicing a hobby like drawing.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Tôi còn thích học những điều mới, như thử một công thức mới hoặc luyện tập một thói quen mới như vẽ tranh.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch tốt vế đầu 'I also enjoy learning new things' thành 'Tôi còn thích học những điều mới' (hoặc 'Tôi cũng thích học hỏi những điều mới'), diễn đạt tự nhiên và phù hợp với giọng văn chia sẻ của đoạn văn."
+        },
+        {
+          "type": "good",
+          "message": "Cấu trúc câu dịch mạch lạc, trôi chảy, giữ được sự liên kết tốt giữa các ý tương tự như câu gốc."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dịch sai từ vựng nghiêm trọng: Bạn đã dịch 'hobby' thành 'thói quen'. Trong tiếng Anh, 'hobby' là 'sở thích', còn 'thói quen' là 'habit'."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi thêm từ không có trong bản gốc: Bạn tự ý thêm từ 'mới' vào cụm 'một thói quen mới', trong khi bản gốc chỉ viết là 'a hobby' (một sở thích)."
+        },
+        {
+          "type": "error",
+          "message": "Dịch chưa sát nghĩa ngữ cảnh: Từ 'recipe' dịch đơn giản là 'công thức' thì người Việt vẫn hiểu, nhưng để tự nhiên và rõ nghĩa nhất trong ngữ cảnh này, nên dịch là 'công thức nấu ăn'."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'practicing a hobby' dịch là 'luyện tập một thói quen/sở thích' nghe rất gượng gạo. Với sở thích như vẽ tranh, ta nên dùng các từ như 'theo đuổi', 'thực hành' hoặc 'dành thời gian cho' sở thích đó."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7
     },
     {
       "id": 7,
@@ -167,9 +193,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:27:08.397Z",
+  "createdAt": "2026-05-22T07:27:58.441Z",
   "totalSentences": 9,
-  "translatedCount": 6,
+  "translatedCount": 7,
   "completed": false,
-  "averageScore": 8.1
+  "averageScore": 7.9
 }
