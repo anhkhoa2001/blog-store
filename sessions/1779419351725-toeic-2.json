@@ -219,15 +219,25 @@
     {
       "id": 9,
       "original": "Building Management Team",
-      "translation": "",
-      "feedback": [],
+      "translation": "Đội quản lý tòa nhà",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch của bạn đã dịch sát nghĩa đen của từng từ (Building -> tòa nhà, Management -> quản lý, Team -> đội/nhóm) và giữ được cấu trúc ngắn gọn của phần ký tên cuối thông báo."
+        },
+        {
+          "type": "error",
+          "message": "Dù đúng nghĩa, nhưng từ 'Đội' chưa thực sự tự nhiên và trang trọng trong văn phong hành chính văn phòng tại Việt Nam. Từ 'Đội' thường gợi liên tưởng đến các tổ/đội thi công, đội kỹ thuật hoặc đội vệ sinh. Đối với bộ phận chịu trách nhiệm vận hành và quản lý chung của một tòa nhà, người Việt thường dùng từ 'Ban' (Ban quản lý) để thể hiện sự chuyên nghiệp và đúng thẩm quyền hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     }
   ],
   "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 9,
-  "completed": false,
-  "averageScore": 7.4
+  "translatedCount": 10,
+  "completed": true,
+  "averageScore": 7.6
 }
