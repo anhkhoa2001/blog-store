@@ -57,10 +57,20 @@
     {
       "id": 2,
       "original": "Rebus Virtual Office World can help you.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Rebus Virtual Office World có thể giúp bạn.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch hoàn toàn chính xác về mặt ngữ nghĩa và ngữ pháp. Việc bạn giữ nguyên tên thương hiệu 'Rebus Virtual Office World' là rất phù hợp trong văn cảnh giới thiệu dịch vụ doanh nghiệp."
+        },
+        {
+          "type": "error",
+          "message": "Bản dịch còn hơi cứng và mang tính chất dịch word-for-word (sát từng chữ). Trong ngữ cảnh quảng cáo/marketing hướng đến các chủ doanh nghiệp nhỏ, cụm từ 'có thể giúp bạn' nghe hơi thụ động và thiếu tính thuyết phục. Nên thay bằng những từ ngữ chủ động, chuyên nghiệp và mang tính hỗ trợ cao hơn như 'luôn sẵn sàng hỗ trợ bạn' hoặc 'sẽ là giải pháp dành cho bạn'."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     },
     {
       "id": 3,
@@ -95,9 +105,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:49:51.412Z",
+  "createdAt": "2026-05-22T02:50:52.945Z",
   "totalSentences": 7,
-  "translatedCount": 2,
+  "translatedCount": 3,
   "completed": false,
   "averageScore": 8.3
 }
