@@ -23,10 +23,24 @@
     {
       "id": 1,
       "original": "Please be advised that both elevators in the main building will be serviced on Saturday, October 21.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Làm ơn chú ý rằng cả hai thang máy ở tòa nhà chính sẽ được bảo trì vào thứ 7 ngày 21 tháng 10.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch đúng và đủ thông tin cốt lõi của câu gốc. Cụm từ 'both elevators in the main building will be serviced' được dịch chính xác và dễ hiểu thành 'cả hai thang máy ở tòa nhà chính sẽ được bảo trì'."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'Làm ơn chú ý rằng' dịch quá sát nghĩa đen (word-by-word) của 'Please be advised that'. Trong văn phong thông báo hành chính hoặc công sở bằng tiếng Việt, người ta không dùng 'Làm ơn' ở đầu câu như vậy vì nghe rất gượng gạo. Thay vào đó, nên dùng các cụm từ trang trọng và tự nhiên hơn như: 'Xin lưu ý rằng', 'Xin thông báo rằng', hoặc 'Chúng tôi xin thông báo'."
+        },
+        {
+          "type": "error",
+          "message": "Cách viết ngày tháng 'thứ 7 ngày 21 tháng 10' nên được chuẩn hóa lại bằng cách viết hoa thứ (Thứ Bảy/Thứ bảy) và thêm dấu phẩy ngăn cách để bản dịch trông chuyên nghiệp hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7.5
     },
     {
       "id": 2,
@@ -93,9 +107,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T03:09:29.162Z",
+  "createdAt": "2026-05-22T03:13:10.197Z",
   "totalSentences": 10,
-  "translatedCount": 1,
+  "translatedCount": 2,
   "completed": false,
-  "averageScore": 8.5
+  "averageScore": 8
 }
