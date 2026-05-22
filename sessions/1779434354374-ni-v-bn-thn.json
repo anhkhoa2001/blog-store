@@ -53,10 +53,20 @@
     {
       "id": 2,
       "original": "Sometimes, I listen to music or watch movies at home.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thỉnh thoảng, tôi nghe nhạc hoặc xem phim tại nhà.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch rất chính xác về mặt nghĩa, ngữ pháp chuẩn xác và giữ được sự mạch lạc của câu gốc. Việc chọn từ 'Thỉnh thoảng' cho 'Sometimes' và cụm 'nghe nhạc hoặc xem phim' rất tự nhiên."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'tại nhà' để dịch cho 'at home' tuy không sai về nghĩa nhưng hơi mang tính trang trọng hoặc hành chính. Trong ngữ cảnh chia sẻ thân mật về sở thích cá nhân ở thời gian rảnh, dùng từ 'ở nhà' sẽ tự nhiên, gần gũi và thuần Việt hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 9.5
     },
     {
       "id": 3,
@@ -107,9 +117,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:20:59.452Z",
+  "createdAt": "2026-05-22T07:22:01.132Z",
   "totalSentences": 9,
-  "translatedCount": 2,
+  "translatedCount": 3,
   "completed": false,
-  "averageScore": 7.5
+  "averageScore": 8.2
 }
