@@ -5,10 +5,28 @@
     {
       "id": 0,
       "original": "Are you setting up a small business?",
-      "translation": "",
-      "feedback": [],
+      "translation": "Bạn đang muốn thiết lập 1 doanh nghiệp nhỏ phải không?",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch đã truyền tải đúng nghĩa gốc của câu và xác định đúng đối tượng hướng tới (bạn - khách hàng mục tiêu). Việc chuyển dịch thành câu hỏi tu từ rất phù hợp với văn phong quảng cáo, tiếp thị."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'thiết lập' dùng cho 'doanh nghiệp' nghe khá khiên cưỡng và mang tính kỹ thuật. Trong tiếng Việt, người ta thường dùng các từ tự nhiên hơn như 'thành lập', 'mở' hoặc 'khởi nghiệp'."
+        },
+        {
+          "type": "error",
+          "message": "Việc sử dụng chữ số '1' thay vì viết chuẩn chính tả là chữ 'một' làm giảm đi tính chuyên nghiệp của một văn bản quảng cáo/thương mại."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'phải không?' ở cuối câu làm câu văn bị dài dòng và giảm đi tính thúc giục, sắc sảo của một câu tiêu đề (hook) quảng cáo. Chỉ cần dùng dấu chấm hỏi là đủ."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8
     },
     {
       "id": 1,
@@ -59,9 +77,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:48:03.756Z",
+  "createdAt": "2026-05-22T02:48:34.775Z",
   "totalSentences": 7,
-  "translatedCount": 0,
+  "translatedCount": 1,
   "completed": false,
-  "averageScore": 0
+  "averageScore": 8
 }
