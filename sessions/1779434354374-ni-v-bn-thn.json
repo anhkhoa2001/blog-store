@@ -97,28 +97,24 @@
     {
       "id": 4,
       "original": "On weekends, I spend time with my family or friends.",
-      "translation": "Vào cuối tuần, tôi dành thời gian cho gia đình và những người bạn.",
+      "translation": "Vào cuối tuần, tôi dành thời gian cho gia đình hoặc những người bạn.",
       "feedback": [
         {
           "type": "good",
-          "message": "Dịch cụm 'On weekends' thành 'Vào cuối tuần' rất chính xác và tự nhiên. Việc lược bớt từ 'my' (của tôi) khi dịch 'my family' thành 'gia đình' giúp câu văn gọn gàng và mang phong cách thuần Việt hơn."
+          "message": "Bản dịch đã dịch đúng và trọn vẹn cấu trúc câu. Cụm trạng ngữ chỉ thời gian 'On weekends' được dịch chính xác thành 'Vào cuối tuần'."
         },
         {
           "type": "error",
-          "message": "Dịch sai từ nối: 'or' nghĩa là 'hoặc' (lựa chọn một trong hai) nhưng em lại dịch thành 'và' (and). Điều này làm thay đổi nhẹ ý nghĩa của câu gốc."
+          "message": "Cụm từ 'những người bạn' khi dịch từ 'friends' nghe bị cứng và mang tính 'dịch thô' (word-by-word). Trong tiếng Việt giao tiếp tự nhiên, chúng ta chỉ cần dùng từ 'bạn bè' là đã đủ nghĩa và tự nhiên hơn rất nhiều."
         },
         {
           "type": "error",
-          "message": "Cụm từ 'những người bạn' dịch hơi bị cứng và rập khuôn (word-by-word). Trong văn phong nói về đời sống hàng ngày của tiếng Việt, dùng từ 'bạn bè' sẽ tự nhiên và gần gũi hơn nhiều."
-        },
-        {
-          "type": "error",
-          "message": "Cụm 'spend time with' dịch là 'dành thời gian cho' thì không sai, nhưng để hay và ấm áp hơn trong ngữ cảnh gia đình/bạn bè, em nên dùng 'dành thời gian bên...' hoặc 'dành thời gian cùng...'"
+          "message": "Cách dịch 'dành thời gian cho...' (thường tương đương với 'spend time on/for') chưa thể hiện tốt nhất tinh thần ấm áp của 'spend time with' (ở cùng, bên cạnh ai đó). Sử dụng 'dành thời gian bên...' hoặc 'dành thời gian cùng...' sẽ phù hợp hơn với ngữ cảnh gia đình và bạn bè thân mật."
         }
       ],
       "keywords": [],
       "status": "translated",
-      "score": 8
+      "score": 8.5
     },
     {
       "id": 5,
@@ -153,9 +149,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:26:00.660Z",
+  "createdAt": "2026-05-22T07:26:23.207Z",
   "totalSentences": 9,
   "translatedCount": 5,
   "completed": false,
-  "averageScore": 7.9
+  "averageScore": 8
 }
