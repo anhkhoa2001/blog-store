@@ -5,10 +5,20 @@
     {
       "id": 0,
       "original": "Dear Colleagues,",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thân gửi đồng nghiệp,",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Cụm từ 'Thân gửi' được dịch rất tốt, thể hiện được sự trang nhã, lịch sự và phù hợp với văn phong giao tiếp nội bộ trong môi trường công sở."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'Colleagues' trong bản gốc ở dạng số nhiều (gửi đến toàn thể nhân viên trong tòa nhà). Bản dịch 'đồng nghiệp' ở dạng số ít nghe hơi trống trải và chưa tự nhiên. Trong văn phong viết thư tiếng Việt, cần thêm từ chỉ số nhiều như 'các', 'quý' hoặc 'các bạn' để thể hiện sự tôn trọng và bao quát đối tượng nhận thư."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     },
     {
       "id": 1,
@@ -83,9 +93,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T03:09:11.725Z",
+  "createdAt": "2026-05-22T03:09:29.162Z",
   "totalSentences": 10,
-  "translatedCount": 0,
+  "translatedCount": 1,
   "completed": false,
-  "averageScore": 0
+  "averageScore": 8.5
 }
