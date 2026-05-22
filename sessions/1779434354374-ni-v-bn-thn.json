@@ -119,10 +119,28 @@
     {
       "id": 5,
       "original": "We often play games, cook together, or just talk.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi thường chơi game, nấu ăn cùng nhau hoặc nói chuyện.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch đã truyền tải chính xác nghĩa của câu gốc, cấu trúc câu gãy gọn và dễ hiểu."
+        },
+        {
+          "type": "good",
+          "message": "Cụm từ 'cook together' được dịch thành 'nấu ăn cùng nhau' rất tự nhiên và chính xác."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'games' trong ngữ cảnh chơi cùng gia đình/bạn bè vào cuối tuần nên dịch là 'chơi trò chơi' (board game, trò chơi tập thể) thay vì 'chơi game' (trong tiếng Việt từ này thường bị hiểu hẹp là chơi trò chơi điện tử)."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'just talk' dịch là 'nói chuyện' chưa lột tả được hết sắc thái của từ 'just'. Nên dịch là 'chỉ trò chuyện' hoặc 'chỉ đơn giản là tán gẫu' để tạo cảm giác gần gũi, ấm áp và thư giãn theo đúng ngữ cảnh của đoạn văn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8.5
     },
     {
       "id": 6,
@@ -149,9 +167,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:26:23.207Z",
+  "createdAt": "2026-05-22T07:27:08.397Z",
   "totalSentences": 9,
-  "translatedCount": 5,
+  "translatedCount": 6,
   "completed": false,
-  "averageScore": 8
+  "averageScore": 8.1
 }
