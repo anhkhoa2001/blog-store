@@ -1,0 +1,67 @@
+{
+  "title": "TOEIC 1",
+  "originalText": "Are you setting up a small business? Worried about the costs of renting office space and employing the right people?\nRebus Virtual Office World can help you. With our Basic Office Deal, we can set up a virtual office for you practically overnight.\nWe will give your business a professional image and our polite, friendly staff will handle your calls and present your business in the best possible way. We can provide you with: a professional business address, a local phone number and we will also handle mail.\nFor a more personal approach, with the option of forwarding mail and messages to your home address, don’t hesitate to ask us about our Premier Office Deals.",
+  "sentences": [
+    {
+      "id": 0,
+      "original": "Are you setting up a small business?",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 1,
+      "original": "Worried about the costs of renting office space and employing the right people?",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "original": "Rebus Virtual Office World can help you.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "original": "With our Basic Office Deal, we can set up a virtual office for you practically overnight.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "original": "We will give your business a professional image and our polite, friendly staff will handle your calls and present your business in the best possible way.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "original": "We can provide you with: a professional business address, a local phone number and we will also handle mail.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "original": "For a more personal approach, with the option of forwarding mail and messages to your home address, don’t hesitate to ask us about our Premier Office Deals.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    }
+  ],
+  "createdAt": "2026-05-22T02:48:03.756Z",
+  "totalSentences": 7,
+  "translatedCount": 0,
+  "completed": false,
+  "averageScore": 0
+}
