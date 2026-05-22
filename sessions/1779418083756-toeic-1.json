@@ -101,10 +101,28 @@
     {
       "id": 4,
       "original": "We will give your business a professional image and our polite, friendly staff will handle your calls and present your business in the best possible way.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi sẽ cho doanh nghiệp của bạn một hình ảnh chuyên nghiệp và lịch sự, sự thân thiện của nhân viên sẽ xử lý những cuộc gọi của bạn và mang đến doanh nghiệp của bạn theo cách tốt nhất có thể",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Học viên đã cố gắng dịch đầy đủ các ý của câu gốc và giữ được văn phong tương đối lịch sự phù hợp với ngữ cảnh quảng cáo dịch vụ văn phòng."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dịch sai cấu trúc/ngữ nghĩa: Cụm 'polite, friendly staff' (nhân viên lịch sự, thân thiện) bị dịch nhầm thành 'hình ảnh chuyên nghiệp và lịch sự' và 'sự thân thiện của nhân viên'. Điều này dẫn đến lỗi logic tiếp theo: 'sự thân thiện... sẽ xử lý cuộc gọi' (sự thân thiện là danh từ trừu tượng, không thể thực hiện hành động 'xử lý cuộc gọi', phải là 'nhân viên' làm việc này)."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi diễn đạt không tự nhiên (Word-by-word): 'give your business a professional image' dịch là 'cho doanh nghiệp của bạn một hình ảnh' nghe rất gượng gạo. Trong tiếng Việt quảng cáo, nên dùng 'mang lại/xây dựng hình ảnh chuyên nghiệp cho doanh nghiệp'."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dịch sai nghĩa từ vựng: 'present your business' dịch là 'mang đến doanh nghiệp của bạn' là chưa chính xác. Từ 'present' ở đây mang nghĩa là đại diện, giới thiệu, thể hiện bộ mặt của doanh nghiệp trước khách hàng. Dịch là 'đại diện' hoặc 'quảng bá/thể hiện hình ảnh' sẽ phù hợp hơn."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 5
     },
     {
       "id": 5,
@@ -123,9 +141,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T02:51:56.154Z",
+  "createdAt": "2026-05-22T02:54:31.726Z",
   "totalSentences": 7,
-  "translatedCount": 4,
+  "translatedCount": 5,
   "completed": false,
-  "averageScore": 7.6
+  "averageScore": 7.1
 }
