@@ -1,0 +1,91 @@
+{
+  "title": "TOEIC 2",
+  "originalText": "Dear Colleagues,\n\nPlease be advised that both elevators in the main building will be serviced on Saturday, October 21. Technicians will perform routine maintenance and safety inspections throughout the day.\n\nIf you need to access the building on Saturday, please use the stairwells located at either end of each floor. We recommend planning extra time if you are carrying heavy materials.\n\nWe expect all work to be completed by Sunday morning. Normal elevator service will resume on Monday.\n\nWe apologize for any inconvenience this may cause.\n\nBest regards,\nBuilding Management Team",
+  "sentences": [
+    {
+      "id": 0,
+      "original": "Dear Colleagues,",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 1,
+      "original": "Please be advised that both elevators in the main building will be serviced on Saturday, October 21.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "original": "Technicians will perform routine maintenance and safety inspections throughout the day.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "original": "If you need to access the building on Saturday, please use the stairwells located at either end of each floor.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "original": "We recommend planning extra time if you are carrying heavy materials.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "original": "We expect all work to be completed by Sunday morning.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "original": "Normal elevator service will resume on Monday.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "original": "We apologize for any inconvenience this may cause.",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "original": "Best regards,",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "original": "Building Management Team",
+      "translation": "",
+      "feedback": [],
+      "keywords": [],
+      "status": "pending"
+    }
+  ],
+  "createdAt": "2026-05-22T03:09:11.725Z",
+  "totalSentences": 10,
+  "translatedCount": 0,
+  "completed": false,
+  "averageScore": 0
+}
