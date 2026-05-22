@@ -49,24 +49,28 @@
     {
       "id": 2,
       "original": "Technicians will perform routine maintenance and safety inspections throughout the day.",
-      "translation": "Kỹ thuật viên sẽ thực hiện bảo trì thường xuyên và kiểm tra an toàn hàng ngày.",
+      "translation": "Kỹ thuật viên sẽ thực hiện bảo trì định kỳ và kiểm tra an toàn hàng ngày.",
       "feedback": [
         {
           "type": "good",
-          "message": "Dịch đúng chủ ngữ 'Kỹ thuật viên' (Technicians) và cụm từ 'kiểm tra an toàn' (safety inspections). Cấu trúc câu diễn đạt gãy gọn, dễ hiểu."
+          "message": "Dịch chính xác các thuật ngữ chuyên ngành: 'routine maintenance' thành 'bảo trì định kỳ' và 'safety inspections' thành 'kiểm tra an toàn'."
+        },
+        {
+          "type": "good",
+          "message": "Hành văn trôi chảy, cấu trúc câu gãy gọn và dễ hiểu."
         },
         {
           "type": "error",
-          "message": "Sai lệch thông tin nghiêm trọng ở cụm 'throughout the day' bị dịch thành 'hàng ngày'. Dựa vào ngữ cảnh, việc bảo trì chỉ diễn ra vào ngày Thứ Bảy (21/10), do đó 'throughout the day' nghĩa là 'trong suốt cả ngày hôm đó', chứ không phải ngày nào cũng làm ('hàng ngày'/daily)."
+          "message": "Lỗi dịch sai nghĩa nghiêm trọng do không bám sát ngữ cảnh: Bạn dịch 'throughout the day' thành 'hàng ngày' (daily). Theo ngữ cảnh của thông báo, việc bảo trì chỉ diễn ra duy nhất vào thứ Bảy ngày 21/10, do đó 'throughout the day' phải dịch là 'trong suốt cả ngày (hôm đó)' chứ không phải là công việc lặp đi lặp lại mỗi ngày."
         },
         {
           "type": "error",
-          "message": "Cụm từ 'routine maintenance' dịch là 'bảo trì thường xuyên' chưa thực sự tự nhiên và chuyên nghiệp trong văn phong thông báo của tòa nhà. Trong ngữ cảnh này, 'bảo trì định kỳ' sẽ chuẩn xác và trang trọng hơn."
+          "message": "Từ 'Technicians' (số nhiều) nên dịch là 'Các kỹ thuật viên' hoặc 'Nhân viên kỹ thuật' để tăng tính tự nhiên và trang trọng cho một thông báo nội bộ."
         }
       ],
       "keywords": [],
       "status": "translated",
-      "score": 6.5
+      "score": 7.5
     },
     {
       "id": 3,
@@ -125,9 +129,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T03:23:34.454Z",
+  "createdAt": "2026-05-22T03:24:08.902Z",
   "totalSentences": 10,
   "translatedCount": 3,
   "completed": false,
-  "averageScore": 8
+  "averageScore": 8.3
 }
