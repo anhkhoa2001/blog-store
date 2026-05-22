@@ -5,10 +5,24 @@
     {
       "id": 0,
       "original": "In my free time, I enjoy doing simple and fun activities.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thời gian rảnh, tôi thích làm những hành động đơn giản và vui",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Cụm từ 'Thời gian rảnh' và 'tôi thích' được dịch rất tự nhiên, ngắn gọn và đi thẳng vào vấn đề, tránh được việc dịch word-by-word rườm rà (như 'Trong thời gian rảnh rỗi của tôi...')."
+        },
+        {
+          "type": "error",
+          "message": "Dịch từ 'activities' thành 'hành động' là chưa chính xác trong ngữ cảnh này. 'Hành động' thường chỉ các hành vi cụ thể (actions), còn trong chủ đề sở thích, thời gian rảnh, ta phải dùng từ 'hoạt động' (activities)."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'đơn giản và vui' ở cuối câu nghe hơi cộc lốc và chưa thật sự tự nhiên trong văn phong tiếng Việt. Bạn nên chuyển thành 'đơn giản và vui vẻ' hoặc 'đơn giản và thú vị'. Ngoài ra, câu dịch của bạn đang thiếu dấu chấm câu."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7
     },
     {
       "id": 1,
@@ -75,9 +89,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:19:14.373Z",
+  "createdAt": "2026-05-22T07:19:47.493Z",
   "totalSentences": 9,
-  "translatedCount": 0,
+  "translatedCount": 1,
   "completed": false,
-  "averageScore": 0
+  "averageScore": 7
 }
