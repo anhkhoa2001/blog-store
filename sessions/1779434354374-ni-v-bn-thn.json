@@ -5,24 +5,28 @@
     {
       "id": 0,
       "original": "In my free time, I enjoy doing simple and fun activities.",
-      "translation": "Thời gian rảnh, tôi thích làm những hành động đơn giản và vui",
+      "translation": "Thời gian rảnh, tôi thích làm những hoạt động đơn giản và vui",
       "feedback": [
         {
           "type": "good",
-          "message": "Cụm từ 'Thời gian rảnh' và 'tôi thích' được dịch rất tự nhiên, ngắn gọn và đi thẳng vào vấn đề, tránh được việc dịch word-by-word rườm rà (như 'Trong thời gian rảnh rỗi của tôi...')."
+          "message": "Bản dịch của bạn đã truyền tải sát nghĩa gốc và giữ được tinh thần giản dị, gần gũi của toàn bộ đoạn văn."
         },
         {
           "type": "error",
-          "message": "Dịch từ 'activities' thành 'hành động' là chưa chính xác trong ngữ cảnh này. 'Hành động' thường chỉ các hành vi cụ thể (actions), còn trong chủ đề sở thích, thời gian rảnh, ta phải dùng từ 'hoạt động' (activities)."
+          "message": "Cụm từ 'Thời gian rảnh' ở đầu câu nghe hơi cộc lốc. Trong tiếng Việt, nên thêm giới từ để câu uyển chuyển hơn, ví dụ: 'Vào thời gian rảnh' hoặc 'Trong thời gian rảnh rỗi'."
         },
         {
           "type": "error",
-          "message": "Cụm từ 'đơn giản và vui' ở cuối câu nghe hơi cộc lốc và chưa thật sự tự nhiên trong văn phong tiếng Việt. Bạn nên chuyển thành 'đơn giản và vui vẻ' hoặc 'đơn giản và thú vị'. Ngoài ra, câu dịch của bạn đang thiếu dấu chấm câu."
+          "message": "Cách dùng từ 'làm những hoạt động' bị ảnh hưởng bởi tư duy dịch word-by-word từ tiếng Anh (doing activities). Trong tiếng Việt, người ta thường dùng từ 'tham gia các hoạt động' hoặc 'thực hiện các hoạt động'."
+        },
+        {
+          "type": "error",
+          "message": "Tính từ 'vui' đặt ở cuối câu làm câu bị cụt và mang tính khẩu ngữ quá mức. Bạn nên dùng các từ như 'vui vẻ', 'thú vị' hoặc 'vui nhộn' để câu văn trau chuốt hơn."
         }
       ],
       "keywords": [],
       "status": "translated",
-      "score": 7
+      "score": 7.5
     },
     {
       "id": 1,
@@ -89,9 +93,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:19:47.493Z",
+  "createdAt": "2026-05-22T07:20:20.097Z",
   "totalSentences": 9,
   "translatedCount": 1,
   "completed": false,
-  "averageScore": 7
+  "averageScore": 7.5
 }
