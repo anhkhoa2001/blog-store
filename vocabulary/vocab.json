@@ -1,5 +1,14 @@
 [
   {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpl/",
+    "partOfSpeech": "tính từ",
+    "meaning": "đơn giản, dễ hiểu",
+    "example": "The solution to the problem is quite simple.",
+    "createdAt": "2026-05-01T06:40:50.971Z",
+    "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
+  },
+  {
     "word": "mild",
     "phonetic": "/maɪld/",
     "partOfSpeech": "Tính từ",
@@ -9,12 +18,12 @@
     "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
   },
   {
-    "word": "simple",
-    "phonetic": "/ˈsɪmpl/",
-    "partOfSpeech": "tính từ",
-    "meaning": "đơn giản, dễ hiểu",
-    "example": "The solution to the problem is quite simple.",
-    "createdAt": "2026-05-01T06:40:50.971Z",
-    "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
+    "word": "practically",
+    "phonetic": "/ˈpræktɪkli/",
+    "partOfSpeech": "trạng từ",
+    "meaning": "hầu như, gần như; thực tế là",
+    "example": "I have practically finished my homework; there are only a few questions left.",
+    "createdAt": "2026-05-22T02:52:19.634Z",
+    "sessionPath": "sessions/1779418083756-toeic-1.json"
   }
 ]
