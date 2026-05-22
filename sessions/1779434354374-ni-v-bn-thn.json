@@ -31,10 +31,24 @@
     {
       "id": 1,
       "original": "I like walking in the park because it helps me relax and enjoy nature.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Tôi thích đi bộ trong công viên bởi vì nó giúp tôi thư giãn và thoải mái",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Vế đầu 'Tôi thích đi bộ trong công viên' được dịch rất tự nhiên, diễn đạt trôi chảy và phù hợp với ngữ cảnh chia sẻ sở thích cá nhân."
+        },
+        {
+          "type": "good",
+          "message": "Dịch chính xác cụm từ 'helps me relax' thành 'giúp tôi thư giãn'."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai nghĩa của cụm từ 'enjoy nature'. Bản dịch của bạn là 'thoải mái', trong khi 'nature' nghĩa là 'thiên nhiên'. Việc dịch thành 'thoải mái' vừa làm mất đi yếu tố 'thiên nhiên' của câu gốc, vừa gây lặp ý với từ 'thư giãn' đứng trước."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7.5
     },
     {
       "id": 2,
@@ -93,9 +107,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:20:20.097Z",
+  "createdAt": "2026-05-22T07:20:59.452Z",
   "totalSentences": 9,
-  "translatedCount": 1,
+  "translatedCount": 2,
   "completed": false,
   "averageScore": 7.5
 }
