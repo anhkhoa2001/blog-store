@@ -183,10 +183,28 @@
     {
       "id": 7,
       "original": "We apologize for any inconvenience this may cause.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Chúng tôi trân thành xin lỗi vì bất kì sự bất tiện nào do vấn đề này gây ra",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Bản dịch đã truyền tải được tinh thần lịch sự, trang trọng và thái độ cầu thị của ban quản lý tòa nhà, rất phù hợp với văn phong email công việc."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi chính tả nghiêm trọng: 'trân thành' là từ viết sai, phải sửa lại thành 'chân thành'."
+        },
+        {
+          "type": "error",
+          "message": "Dịch bị rập khuôn từ chữ (word-by-word): Cụm 'bất kì sự bất tiện nào do vấn đề này gây ra' nghe khá rườm rà và không tự nhiên trong tiếng Việt công sở. Ngoài ra, việc bảo trì định kỳ là hoạt động có kế hoạch, không nên dùng từ 'vấn đề này' vì nó mang sắc thái tiêu cực (như thể đang có sự cố xảy ra)."
+        },
+        {
+          "type": "error",
+          "message": "Thiếu dấu chấm kết thúc câu."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 7
     },
     {
       "id": 8,
@@ -207,7 +225,7 @@
   ],
   "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 7,
+  "translatedCount": 8,
   "completed": false,
   "averageScore": 6.9
 }
