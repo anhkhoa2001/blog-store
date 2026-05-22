@@ -161,10 +161,24 @@
     {
       "id": 6,
       "original": "Normal elevator service will resume on Monday.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Thông thường dịch vụ thang máy sẽ hoạt động bình thường vào Thứ hai",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Học viên đã nắm được ý chính của câu là thang máy sẽ hoạt động vào thứ Hai và dịch chính xác mốc thời gian 'Monday' thành 'Thứ hai'."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai nghĩa từ 'Normal'. Học viên dịch thành trạng từ 'Thông thường' đặt ở đầu câu, kết hợp với vế sau 'hoạt động bình thường' gây ra lỗi lặp từ (redundancy) và làm sai lệch ý nghĩa của câu gốc. 'Thông thường...' tạo cảm giác đây là một thói quen lặp đi lặp lại (Usually...), trong khi câu gốc muốn nói 'Dịch vụ thang máy [sau khi sửa xong] sẽ hoạt động bình thường trở lại'."
+        },
+        {
+          "type": "error",
+          "message": "Chưa dịch thoát ý từ 'resume' (khôi phục/hoạt động trở lại). Dịch là 'sẽ hoạt động' chưa thể hiện được trạng thái trước đó bị gián đoạn (do bảo trì vào thứ Bảy) nay được mở lại."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 6
     },
     {
       "id": 7,
@@ -193,7 +207,7 @@
   ],
   "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 6,
+  "translatedCount": 7,
   "completed": false,
-  "averageScore": 7
+  "averageScore": 6.9
 }
