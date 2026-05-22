@@ -75,10 +75,32 @@
     {
       "id": 3,
       "original": "If you need to access the building on Saturday, please use the stairwells located at either end of each floor.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Nếu bạn muốn ra vào tòa nhà vào thứ bảy, hãy sử dụng cầu thang đặt tại một trong hai lối cuối đường sàn nhà",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch tốt cấu trúc giả định 'If..., please...' thành 'Nếu..., hãy...' và diễn đạt khá tự nhiên cụm 'access the building' thành 'ra vào tòa nhà'."
+        },
+        {
+          "type": "error",
+          "message": "Cách xưng hô chưa phù hợp: Email bắt đầu bằng 'Dear Colleagues' (Gửi các đồng nghiệp), mang tính chất thông báo công sở trang trọng. Việc dịch 'you' thành 'bạn' và dùng từ 'hãy' khiến câu văn có phần suồng sã. Nên thay bằng 'anh/chị' hoặc 'quý vị' và dùng từ 'vui lòng' để lịch sự hơn."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai sắc thái từ: 'need to' nghĩa là 'cần/có nhu cầu', dịch thành 'muốn' (want) làm giảm đi tính cần thiết của hành động."
+        },
+        {
+          "type": "error",
+          "message": "Lỗi dịch word-by-word nghiêm trọng ở vế cuối: Cụm 'either end of each floor' bị dịch máy móc thành 'một trong hai lối cuối đường sàn nhà'. Trong ngữ cảnh tòa nhà, 'floor' là 'tầng' (lầu). Cụm này phải dịch là 'ở hai đầu (hồi) của mỗi tầng'."
+        },
+        {
+          "type": "error",
+          "message": "Từ 'stairwells' nên dịch thoát nghĩa là 'cầu thang bộ' thay vì chỉ dịch là 'cầu thang' chung chung, nhằm nhấn mạnh việc đi bộ thay thế cho thang máy đang bảo trì."
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 5.5
     },
     {
       "id": 4,
@@ -129,9 +151,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T03:24:08.902Z",
+  "createdAt": "2026-05-22T03:26:39.991Z",
   "totalSentences": 10,
-  "translatedCount": 3,
+  "translatedCount": 4,
   "completed": false,
-  "averageScore": 8.3
+  "averageScore": 7.6
 }
