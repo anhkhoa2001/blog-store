@@ -1,5 +1,14 @@
 [
   {
+    "word": "present",
+    "phonetic": "/ˈpreznt/",
+    "partOfSpeech": "danh từ",
+    "meaning": "món quà, hiện tại",
+    "example": "She gave me a beautiful birthday present.",
+    "createdAt": "2026-05-22T02:55:08.090Z",
+    "sessionPath": "sessions/1779418083756-toeic-1.json"
+  },
+  {
     "word": "polite",
     "phonetic": "/pəˈlaɪt/",
     "partOfSpeech": "tính từ",
@@ -36,12 +45,12 @@
     "sessionPath": "sessions/1777562037428-ni-v-t-nc-italy.json"
   },
   {
-    "word": "present",
-    "phonetic": "/ˈpreznt/",
-    "partOfSpeech": "danh từ",
-    "meaning": "món quà, hiện tại",
-    "example": "She gave me a beautiful birthday present.",
-    "createdAt": "2026-05-22T02:55:08.090Z",
+    "word": "hesitate",
+    "phonetic": "/ˈhez.ɪ.teɪt/",
+    "partOfSpeech": "động từ",
+    "meaning": "do dự, ngập ngừng, lưỡng lự",
+    "example": "Please do not hesitate to contact me if you have any questions.",
+    "createdAt": "2026-05-22T02:57:13.575Z",
     "sessionPath": "sessions/1779418083756-toeic-1.json"
   }
 ]
