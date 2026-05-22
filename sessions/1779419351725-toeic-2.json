@@ -183,28 +183,20 @@
     {
       "id": 7,
       "original": "We apologize for any inconvenience this may cause.",
-      "translation": "Chúng tôi trân thành xin lỗi vì bất kì sự bất tiện này",
+      "translation": "Chúng tôi chân thành xin lỗi vì sự bất tiện này.",
       "feedback": [
         {
           "type": "good",
-          "message": "Học viên đã xác định đúng đối tượng xưng hô 'Chúng tôi' (đại diện cho Ban quản lý tòa nhà) phù hợp với ngữ cảnh trang trọng của một thông báo nội bộ."
+          "message": "Bản dịch rất tự nhiên, diễn đạt trôi chảy và chọn từ ngữ trang trọng, lịch sự ('chân thành xin lỗi'), hoàn toàn phù hợp với văn phong của một thông báo gửi cho đồng nghiệp (Colleagues) trong môi trường công sở."
         },
         {
           "type": "error",
-          "message": "Lỗi chính tả nghiêm trọng: 'trân thành' là từ viết sai chính tả. Từ đúng phải là 'chân thành'."
-        },
-        {
-          "type": "error",
-          "message": "Lỗi diễn đạt chưa tự nhiên: Cụm từ 'bất kì sự bất tiện này' bị lỗi ngữ pháp tiếng Việt (không thể kết hợp 'bất kỳ' với 'này' trong ngữ cảnh này). Cụm 'any inconvenience this may cause' nên được dịch thoát ý thành 'bất kỳ sự bất tiện nào' hoặc 'sự bất tiện này'."
-        },
-        {
-          "type": "error",
-          "message": "Văn phong dịch bị 'word-by-word' (dịch từng từ). Trong văn phong thông báo công sở ở Việt Nam, câu này thường được diễn đạt uyển chuyển hơn là chỉ xin lỗi đơn thuần."
+          "message": "Học viên chưa dịch sát sắc thái giả định/tương lai của cụm 'any inconvenience this may cause' (bất kỳ sự bất tiện nào việc này có thể gây ra - do việc bảo trì elevator đến thứ Bảy mới diễn ra). Cụm 'vì sự bất tiện này' của học viên mặc định là sự bất tiện đã/đang xảy ra rồi."
         }
       ],
       "keywords": [],
       "status": "translated",
-      "score": 5
+      "score": 9
     },
     {
       "id": 8,
@@ -227,5 +219,5 @@
   "totalSentences": 10,
   "translatedCount": 8,
   "completed": false,
-  "averageScore": 6.6
+  "averageScore": 7.1
 }
