@@ -97,10 +97,28 @@
     {
       "id": 4,
       "original": "On weekends, I spend time with my family or friends.",
-      "translation": "",
-      "feedback": [],
+      "translation": "Vào cuối tuần, tôi dành thời gian cho gia đình và những người bạn.",
+      "feedback": [
+        {
+          "type": "good",
+          "message": "Dịch cụm 'On weekends' thành 'Vào cuối tuần' rất chính xác và tự nhiên. Việc lược bớt từ 'my' (của tôi) khi dịch 'my family' thành 'gia đình' giúp câu văn gọn gàng và mang phong cách thuần Việt hơn."
+        },
+        {
+          "type": "error",
+          "message": "Dịch sai từ nối: 'or' nghĩa là 'hoặc' (lựa chọn một trong hai) nhưng em lại dịch thành 'và' (and). Điều này làm thay đổi nhẹ ý nghĩa của câu gốc."
+        },
+        {
+          "type": "error",
+          "message": "Cụm từ 'những người bạn' dịch hơi bị cứng và rập khuôn (word-by-word). Trong văn phong nói về đời sống hàng ngày của tiếng Việt, dùng từ 'bạn bè' sẽ tự nhiên và gần gũi hơn nhiều."
+        },
+        {
+          "type": "error",
+          "message": "Cụm 'spend time with' dịch là 'dành thời gian cho' thì không sai, nhưng để hay và ấm áp hơn trong ngữ cảnh gia đình/bạn bè, em nên dùng 'dành thời gian bên...' hoặc 'dành thời gian cùng...'"
+        }
+      ],
       "keywords": [],
-      "status": "pending"
+      "status": "translated",
+      "score": 8
     },
     {
       "id": 5,
@@ -135,9 +153,9 @@
       "status": "pending"
     }
   ],
-  "createdAt": "2026-05-22T07:25:08.795Z",
+  "createdAt": "2026-05-22T07:26:00.660Z",
   "totalSentences": 9,
-  "translatedCount": 4,
+  "translatedCount": 5,
   "completed": false,
   "averageScore": 7.9
 }
